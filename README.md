@@ -9,8 +9,8 @@
 ---FOR EXAMPLE---                             
 GOAL NUMBER: 1234                                  
   1 - YOUR GUESS: 5631                                                    
-  OUTPUT: +-                                    
-  2 - YOUR GUESS: 8934                                       
+  OUTPUT: +-                                                
+  2 - YOUR GUESS: 8934                                        
   OUTPUT: ++                                                        
   3 - YOUR GUESS: 5689                                                  
   OUTPUT:                                                                 
