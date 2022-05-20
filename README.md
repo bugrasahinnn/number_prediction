@@ -6,17 +6,17 @@
 - Your number cannot contain 0 and repeating digits.
 - LET'S GET STARTED!
 
----FOR EXAMPLE---
-GOAL NUMBER: 1234
-  1 - YOUR GUESS: 5631
-  OUTPUT: +-
-  2 - YOUR GUESS: 8934
-  OUTPUT: ++
-  3 - YOUR GUESS: 5689
-  OUTPUT: 
-  4 - YOUR GUESS: 4213
-  OUTPUT: ----
-  5 - YOUR GUESS: 3249
-  OUTPUT: +--
-  6 - YOUR GUESS: 1234
-  OUTPUT: ++++
+---FOR EXAMPLE---                             
+GOAL NUMBER: 1234                                  
+  1 - YOUR GUESS: 5631                                                    
+  OUTPUT: +-                                    
+  2 - YOUR GUESS: 8934                                       
+  OUTPUT: ++                                                        
+  3 - YOUR GUESS: 5689                                                  
+  OUTPUT:                                                                 
+  4 - YOUR GUESS: 4213                                                            
+  OUTPUT: ----                                                                    
+  5 - YOUR GUESS: 3249                                              
+  OUTPUT: +--                                                           
+  6 - YOUR GUESS: 1234                                              
+  OUTPUT: ++++                                                                
